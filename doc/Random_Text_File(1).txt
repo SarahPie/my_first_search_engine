@@ -1,0 +1,6 @@
+This is a text file that has no value to anybody except some random php program.
+The PHP program is going to look for a query in me. 
+What query you ask? I have no idea.
+Something with words and letters. Maybe even numbers.
+I have no numbers.
+Woe is me.
